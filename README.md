@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @diosiegel
 - 👀 I’m interested in tech and IT
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on an internship
 - 📫 How to reach me linkedin.com/in/dio-siegel-163035222
 
 <!---
